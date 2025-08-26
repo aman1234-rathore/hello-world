@@ -1,3 +1,4 @@
-## DevOps Project for Beginners   
+## DevOps Project for Beginners  JAva Project Deployment end to end
 
-[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
+<img width="1387" height="655" alt="image" src="https://github.com/user-attachments/assets/22cfad24-e931-4623-b2e2-dc75f672da80" />
+

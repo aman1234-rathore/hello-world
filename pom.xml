@@ -66,7 +66,15 @@
         <artifactId>maven-site-plugin</artifactId>
         <version>3.12.1</version>
       </plugin>
-version>2.5</version>
+    </plugins>
+  </build>
+
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>javax.servlet</groupId>
+        <artifactId>servlet-api</artifactId>
+        <version>2.5</version>
       </dependency>
       <dependency>
         <groupId>javax.servlet.jsp</groupId>
